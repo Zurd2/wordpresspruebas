@@ -7,6 +7,7 @@ Author: Daniel Guerrero
 Version: 0.1
 */
 #http://codex.wordpress.org/Creating_Options_Pages
+
 class MySettingsPage
 {
     /**
